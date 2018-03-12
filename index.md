@@ -1,37 +1,24 @@
-## 我的第一篇文章
+## 在这个国度里，我们正逐渐丧失生而为人的基本权利
+***
+我们生而为人，在这个世界上，站立在这世间，是有权利，去拥抱自己所爱的一切的。
 
-You can use the [editor on GitHub](https://github.com/zhoushuren345/zhoushuren345.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+>《中华人民共和国宪法》第二章《公民的基本权利和义务》内的第三十五条，清楚地写着公民拥有以下权利：“中华人民共和国公民有言论、出版、集会、结社、游行、示威的自由。”
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+我们有权利，在这蓝天下呼吸，有权利，在太阳升起时迎接那金色的光芒，我们有权利，走遍大河山川，在每一个地方留下脚印，我们也有权利，保有自己对社会的看法，更能有说出这种看法的权利，我们有自由的身体，也有自由的思想。
 
-### Markdown
+然而今天，在这片土地，我们变得不太一样。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+我们看不到很多电影了，我们也看不到很多书，看不到很多言论，我们被规定什么可以看什么不能看，我们被要求什么话可以说什么话不能说。我们也不能玩很多游戏了。这些人类文明的共同财产，我们本该是可以自由享用的。
 
-```markdown
-Syntax highlighted code block
+我不知道共和国的光辉还能照耀这片土地多久，我不知道这里的人民对自由的渴望还剩多少，我不知道，我什么都不知道，也许我什么都不说，专心自己的工作自己的生活会更好。
 
-# Header 1
-## Header 2
-### Header 3
+我承认，这一切的发生对个体的生活影响很小，有些话不让说可以不说，有些网站不让访问可以翻墙，有些游戏不能玩可以不玩，然而把这种影响扩大到集体，就会变得很不一样。就如同蒙着眼睛的巨兽，在挥鞭者的驱使下用力狂奔，没有觉知，没有感情。
 
-- Bulleted
-- List
+我多么希望这头巨兽可以睁开眼睛看一看，自己在怎样的道路上奔跑，鞭策者又是何人。
 
-1. Numbered
-2. List
+我的祖国啊，生我养我的土地，我不想看到这里竖起的高高的墙，和世界的发展背道而驰，变成与世隔绝的庞然大物。
 
-**Bold** and _Italic_ and `Code` text
+如果你喜欢我的文章，请给我打赏比特币支持我。
 
-[Link](url) and ![Image](src)
-```
+1Mw2mYk8xKoSdNNrDqict74ASVbTvTiKod
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhoushuren345/zhoushuren345.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
